@@ -36,7 +36,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2019.6.14|王博<br>伍一鸣|
 |27|2019.6.21|李宇薇<br>刘倩君|
 |28|2019.6.28|胡思昊<br>唐嘉蔚|
-|29|2019.7.5|魏成坤<br>应燕芸|
+|29|2019.7.5|魏成坤<br>应燕芸|A clinically applicable approach to continuous prediction of future acute kidney injury
 |30|2019.7.12|王琴应<br>李长江|
 |31|2019.7.19|付冲<br>邱鹏宇|
 |32|2019.7.26|吴寒露<br>张耀|
@@ -51,7 +51,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |40|2019.9.27|李长江<br>吕晨阳
 |41|2019.10.4|魏成坤<br>沈鹿嘉|
 |42|2019.10.11|胡思昊<br>唐嘉蔚
-|43|2019.10.18|王博<br>应燕芸
+|43|2019.10.18|王博<br>应燕芸|Discrimination of behavioral dynamics of visually impaired infants via deep learning
 |44|2019.10.25|施程辉<br>段辅正
 |45|2019.11.1|王琴应<br>伍一鸣
 |46|2019.11.8|付丽嫆<br>张耀
