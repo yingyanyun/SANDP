@@ -13,7 +13,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |1|2020.1.3|李宇薇<br>刘倩君||
 |2|2020.1.10|卢令令<br>周俊丰||
 |3|2020.1.17|邱鹏宇<br>沈鹿嘉||
-|4| 2020.2.28 |唐嘉蔚<br>应燕芸||
+|4| 2020.2.28 |唐嘉蔚<br>应燕芸||A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns
 |5| 2020.3.6 |王琴应<br>付冲|Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds, IEEE S&P 2020 |
 |6| 2020.3.13 |王赛卓<br>王博||
 |7| 2020.3.20 |胡思昊<br>付之笑||
@@ -26,7 +26,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |14|2020.5.8|刘丁豪<br>谢之源||
 |15|2020.5.15|卢令令<br>邱鹏宇||
 |16|2020.5.22|陈源<br>沈鹿嘉||
-|17|2020.5.29|应燕芸<br>唐嘉蔚||
+|17|2020.5.29|应燕芸<br>唐嘉蔚||Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach
 |18|2020.6.5|付冲<br>王琴应| BIAS: Bluetooth Impersonation AttackS, IEEE S&P 2020 |
 |19|2020.6.12|付之笑<br>王赛卓||
 |20|2020.6.19|付丽嫆<br>王博||
@@ -38,7 +38,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2020.7.31|刘丁豪<br>谢之源||
 |27|2020.8.7|卢令令<br>邱鹏宇||
 |28|2020.8.14|陈源<br>陈越尧||
-|29|2020.8.21|唐嘉蔚<br>应燕芸||
+|29|2020.8.21|唐嘉蔚<br>应燕芸||Decoding rejuvenating effects of mechanical loading on skeletal aging using in vivo μCT imaging and deep learning 
 |30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020 <br> Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, USENIX Security 2020|
 |31|2020.9.4|方佳<br>陈安莹|BDA: Practical Dependence Analysis for Binary Executables by Unbiased Whole-Program Path Sampling and Per-Path Abstract Interpretation, OOPSLA 2019|
 |32|2020.9.11|付丽嫆<br>王博|PDiff: Semantic-based Patch Presence Testing for Downstream Kernels, ACM CCS 2020|
@@ -52,7 +52,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |40|2020.11.6|王博<br>卢令令|Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX Security 2020<br>GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain, ICDE 2019|
 |41|2020.11.13|马哲<br>王琴应|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020<br>Unearthing the TrustedCore: A Critical Review on Huawei’s Trusted Execution Environment, USENIX Security 2020|
 |42|2020.11.20|付冲<br>张耀|Attack of the Tails: Yes, You Really Can Backdoor Federated Learning, NIPS 2020<br>With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning, USENIX Security 2018|
-|43|2020.11.27|应燕芸<br>吴含露|<br>TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding, KDD 2020|
+|43|2020.11.27|应燕芸<br>吴含露|Deep learning of spontaneous arousal fluctuations detects early cholinergic defects across neurodevelopmental mouse models and patients<br>TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding, KDD 2020|
 |44|2020.12.4|付之笑<br>沈鹿嘉||
 |45|2020.12.11|向意<br>甘雨由||
 |47|2020.12.18|陈越尧<br>唐嘉蔚||
