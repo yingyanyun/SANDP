@@ -60,7 +60,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |50|2018.12.21|王琴应<br>宋宇|
 |51|2018.12.28|吴寒露<br>张耀 |
 |51|2019.1.4|杜天宇<br>李进锋|
-|52|2019.1.11|应燕芸<br> 马哲|
+|52|2019.1.11|应燕芸<br> 马哲|All-optical machine learning using diffractive deep neural networks
 |53|2019.1.18|赵彬彬<br>陈安莹|
 |54|2019.1.25|黄诤杰<br>陈源|
 
